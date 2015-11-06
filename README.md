@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/f6683f16543e59b1a577dc82d291d676/s "wercker status")](https://app.wercker.com/project/bykey/f6683f16543e59b1a577dc82d291d676)
+[ ![Codeship Status for AlphaOptix/bnsdb.api](https://codeship.com/projects/91631de0-6706-0133-874f-6aabc328bcee/status?branch=master)](https://codeship.com/projects/114008)
 
 # bnsdb.api
 Blade and Soul Database Public API
