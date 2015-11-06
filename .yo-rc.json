@@ -1,0 +1,6 @@
+{
+  "generator-react-webpack": {
+    "appName": "bnsdbApi",
+    "style": "sass"
+  }
+}
